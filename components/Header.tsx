@@ -14,7 +14,7 @@ function Header() {
         <div>
           <h1 className="font-bold">
             CHITRA <span className="text-violet-500">AI</span> Image
-            Generator "🤖"
+            Generator 
           </h1>
           <h2 className="text-xs">Powered by DALL·E 2 & Chat GPT</h2>
         </div>
@@ -25,7 +25,7 @@ function Header() {
           href="https://netflix-clone-utsav.web.app/"
           className="px-2 font-light text-right"
         >
-          Netflix And Chill 👋🍑 
+          Netflix And Chill 
         </Link>
         <Link
           href="https://github.com/utsav2912"
